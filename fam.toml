@@ -2,3 +2,4 @@
 	bin = "try_clone"
 [deps]
 	result = { git = "https://github.com/myfamilyorg/result", rev="404ca763e2561b1058cad26c929d74f74af07369" }
+	macros = { git = "https://github.com/myfamilyorg/macros", rev="d1e4aed862ffa2d82c7740af43a8edcd41ee268e" }
