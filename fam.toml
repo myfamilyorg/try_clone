@@ -1,0 +1,4 @@
+[crate]
+	bin = "try_clone"
+[deps]
+	result = { path = "../result" }
