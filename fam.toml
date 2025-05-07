@@ -1,4 +1,4 @@
 [crate]
 	bin = "try_clone"
 [deps]
-	result = { path = "../result" }
+	result = { git = "https://github.com/myfamilyorg/result" }
