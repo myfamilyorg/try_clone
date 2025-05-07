@@ -1,4 +1,4 @@
 [crate]
 	bin = "try_clone"
 [deps]
-	result = { git = "https://github.com/myfamilyorg/result" rev="b84d5b9f5c5242b43bb7fef46528abd1d8f599c1" }
+	result = { git = "https://github.com/myfamilyorg/result", rev="b84d5b9f5c5242b43bb7fef46528abd1d8f599c1" }
