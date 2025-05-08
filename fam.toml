@@ -1,5 +1,4 @@
 [crate]
-	bin = "try_clone"
+	lib = "try_clone"
 [deps]
 	result = { git = "https://github.com/myfamilyorg/result" }
-	macros = { git = "https://github.com/myfamilyorg/macros" }
